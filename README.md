@@ -1,1 +1,1 @@
-# primer_proyecto_git
+# este es mi primer proyecto en GIT compartido
